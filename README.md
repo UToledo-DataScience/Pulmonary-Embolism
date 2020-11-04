@@ -15,7 +15,7 @@ The evaluation of this competitation is divided into 2 parts: the image model, w
 
 We implemented a 3D Conv model to process stacks of CT scans for each study so the model can learn better the correlation of the results in each individual scans in a study.
 
-Below is the link to the submitted trained weights for our model: 
+Below is the link to the submitted trained weights for our models: 
 
 https://www.kaggle.com/hungndo/pulmonary-embolism-model-weights
 
