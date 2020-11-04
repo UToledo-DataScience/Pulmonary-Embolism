@@ -12,7 +12,10 @@ The evaluation of this competitation is divided into 2 parts: the image model, w
  The result in the validation set turned out to be average binary_cross_entropy loss: 0.6931602358818054 and auc_pr: 0.054040178656578064, which is definitely not a good result.
  
  - Exam model
- 
+
+Below is the link to the submitted trained weights for our model: 
+
+https://www.kaggle.com/hungndo/pulmonary-embolism-model-weights
 
 In this competition, we were competing with real-experienced Data Scientists from all over the world.
 We ended up ranked 726 on the leaderboard. We had an submission error at the end of the competition so this ranking does not reflect the true performance of our model.
